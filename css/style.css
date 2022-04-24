@@ -1,0 +1,152 @@
+.link {
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.logo {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.logo-part-header {
+  color: #000000;
+}
+.menu-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #2196f3;
+}
+.contact-mailto,
+.contact-phone {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+.contact-mailto:hover,
+.contact-mailto:focus,
+.contact-phone:hover,
+.contact-phone:focus {
+  color: #2196f3;
+}
+.hero-name {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1, 35;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.main-button {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.9;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  background: #2196f3;
+  cursor: pointer;
+}
+.skills-name {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+.skills-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.activity-name {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.15;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.pur-team {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.15px;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.team-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 0.85;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.team-name-discr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.2px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/*Цвет временно такой покаа белый фонбвообще фффффф*/
+.logo-part-footer {
+  color: rgb(240, 0, 0);
+}
+.address-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  /*цвет временный пока белый фон вообще ффффф*/
+  color: #000000;
+}
+.mailto-link,
+.phone-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  /*цвет временный пока белый фон вообще color: rgba(255, 255, 255, 0.6); */
+  letter-spacing: 0.03em;
+  color: rgba(0, 0, 0, 0.6);
+}
+.button-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
+  color: #212121;
+  background: #f5f4fa;
+}
+.button-item:hover,
+.button-item:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.project-name {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.project-discr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
